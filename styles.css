@@ -36,10 +36,10 @@
 @media (orientation: portrait) {
     /* taller hero on portrait */
     .hero {
-        height: 100vh;
+        height: 110vh;
     }
     .hero-text {
-        font-size: 1.25rem;
+        font-size: 1.3rem;
     }
     }
 
