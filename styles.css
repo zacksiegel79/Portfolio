@@ -41,6 +41,12 @@
     .hero-text {
         font-size: 1.3rem;
     }
+    /* responsive images for portrait */
+    img {
+        max-width: 100%;
+        height: auto;
+        width: 90%;
+    }
     }
 
 @media (orientation: landscape) {
@@ -50,6 +56,12 @@
     }
     .hero-text {
         font-size: 1.25rem;
+    }
+    /* responsive images for landscape */
+    img {
+        max-width: 100%;
+        height: auto;
+        width: 70%;
     }
     }
 /*about me section */
